@@ -23,6 +23,7 @@ Technologies:
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat-square)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
+![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat-square)
 
 
 
