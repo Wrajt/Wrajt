@@ -3,7 +3,7 @@
 ```html
   Hi, I'm Wrajt! I'm currently working as QA Engineer for a software house in Poznań, Poland. 
  I'm also an aspiring front-en developer and I'm currently learning JavaScript.
-  This is my portfolio for both Automation Tests in Cypress and frontend projects.
+  This is my portfolio for both Automation Tests in Cypress and JavaScript projects.
   ```
 
 
