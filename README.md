@@ -2,8 +2,8 @@
   
 ```html
   Hi, I'm Wrajt! I'm currently working as QA Engineer for company from Warsaw. 
- I'm also an aspiring back-end developer and I'm currently learning JavaScript.
-  This is my portfolio for both Automation Tests in Cypress and JavaScript projects.
+ I'm also an aspiring full-stack developer and I'm currently working on my Angular project.
+  In my free time I'm also working on my Discord.js bot.
   ```
 
 
