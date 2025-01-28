@@ -1,9 +1,7 @@
 <div align="center">
   
 ```html
-  Hi, I'm Wrajt! I'm currently working as QA Engineer for company from Warsaw. 
- I'm also an aspiring front-end developer and I'm currently working on my Angular project.
-  In my free time I'm also working on my Discord.js bot.
+  Hi, I'm Wrajt! 
   ```
 
 
